@@ -1,2 +1,6 @@
 # Knee-Arthritis-Prediction
-Use of machine learning to predict, for a cohort of patients, whether or not they are going to be diagnosed of arthritis in the coming 5 years.
+Osteoarthritis (OA) is the most common form of arthritis of the knee that affects individuals of age 50+. OA causes the cartilage in the knee joint to gradually wears away, resulting in pain to carry out every day activities like walking. Osteoarthritis is one of the most quickly expanding chronic conditions, thanks to global ageing and the growing obesity pandemic. OA, which most commonly affects knees and hips, can increase the risk of cardiovascular disease by limiting activity due to significant joint pain. It also has a detrimental impact on quality of life.
+The damage is irreversible and treatments include physiotherapy, weight loss, painkillers, anti-inflammatory steroids, and knee replacement surgery. While risk factors for both frequent knee pain and knee OA may include old age, and overweight/obesity, not all people with these characteristics develop the condition. Therefore early identification is critical to control the progression of the wear, which can be done by identifying the significant risk factors in data.
+
+## Objective of the project
+The aim of our model is to predict if a patient will contract osteoarthritis in the next 5 years, given physiological observations (age, body mass, knee pain, etc.) and diverse information on the patient’s medical history (previous surgery, etc.).
