@@ -3,4 +3,4 @@ Osteoarthritis (OA) is the most common form of arthritis of the knee that affect
 The damage is irreversible and treatments include physiotherapy, weight loss, painkillers, anti-inflammatory steroids, and knee replacement surgery. While risk factors for both frequent knee pain and knee OA may include old age, and overweight/obesity, not all people with these characteristics develop the condition. Therefore early identification is critical to control the progression of the wear, which can be done by identifying the significant risk factors in data.
 
 ## Objective of the project
-The aim of our model is to predict if a patient will contract osteoarthritis in the next 5 years, given physiological observations (age, body mass, knee pain, etc.) and diverse information on the patient’s medical history (previous surgery, etc.).
+The aim of our model is to predict if a patient will contract knee osteoarthritis in the next 5 years, given physiological observations (age, body mass, knee pain, etc.) and diverse information on the patient’s medical history (previous surgery, commorbidities, etc.).
